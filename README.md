@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raul92277
-- 👀 I’m interested in self developement, ttrail running, outdoors, but also like to do nothing.
+- 👀 I’m interested in self developement, trail running, outdoors, but also like to do nothing.
 - 🌱 I’m currently learning linux, git hub, python...
 - 💞️ I’m looking to collaborate on learning all things AI
 - 📫 How to reach me raul92277duck.com
